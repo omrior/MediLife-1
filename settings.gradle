@@ -1,0 +1,2 @@
+rootProject.name='MediLife'
+include ':app'
